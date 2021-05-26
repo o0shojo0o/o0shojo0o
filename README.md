@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I love to do coding and love DIY projects.  
+Also I like to develop for the smart home platfrom [ioBroker](https://github.com/ioBroker).
+  
+![](https://github-readme-stats.vercel.app/api?username=o0shojo0o&show_icons=true)
 <!--
 **o0shojo0o/o0shojo0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
