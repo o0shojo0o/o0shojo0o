@@ -1,7 +1,6 @@
 ### Hi there 👋
 I love to do coding and love DIY projects.  
-Also I like to develop for the smart home platfrom [ioBroker](https://github.com/ioBroker).
-  
+
 ![](https://github-readme-stats.vercel.app/api?username=o0shojo0o&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=o0shojo0o&layout=compact)
 <!--
